@@ -1,6 +1,6 @@
 ## Clonando o repositório
 ```bash
-git clone https://github.com/cleversonmartins/exercicio1-cap1-bootcamp-devsuperior.git
+git clone https://github.com/cleversonmartins/exercicio1-cap1-bootcamp-devsuperior.git dsclient
 ```
 
 ## Como executar o projeto
