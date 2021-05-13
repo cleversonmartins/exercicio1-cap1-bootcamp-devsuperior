@@ -9,6 +9,6 @@ Pré-requisitos: Java 11
 # Entre na pasta do projeto
 cd backend
 
-Executar o projeto
+# Executar o projeto
 mvn spring-boot:run
 ```
